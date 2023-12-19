@@ -1,4 +1,4 @@
-You will write a number guessing game in three ways:
+A number guessing game in three ways:
 - The computer will generate a random number, then you will try to guess it.
 - The computer will generate a random number, then the computer will try to guess it using linear search.
 - The computer will generate a random number, then the computer will try to guess it using binary search.
